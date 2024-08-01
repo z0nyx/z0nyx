@@ -1,9 +1,9 @@
-<img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" height="50"/> <h1>こんにちは(Kon'nichiwa)🙏🏻, I'm Hanavaro!</h1>
+<h1> <img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" height="50"/> こんにちは(Kon'nichiwa)🙏🏻, I'm Hanavaro!</h1>
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
 <a href="https://discord.com/users/397414803473170432">
-<img src="https://lanyard.kyrie25.me/api/368399721494216706?gradient=645CBB-A084DC-BFACE2-EBC7E6" />
+<img src="https://lanyard.kyrie25.me/api/397414803473170432?gradient=645CBB-A084DC-BFACE2-EBC7E6" />
 </a>
 
 ```bash
