@@ -2,8 +2,11 @@
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/397414803473170432)](https://discord.com/users/397414803473170432)
-
+<div align="center">
+  <a href="https://discord.com/users/397414803473170432" >
+   <img src="https://lanyard.kyrie25.me/api/397414803473170432?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
+</div>
 
 ```bash
 $ sudo apt zonyx ^-^
