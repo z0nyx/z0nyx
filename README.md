@@ -2,9 +2,7 @@
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
-<a href="https://discord.com/users/397414803473170432">
-<img src="https://lanyard.kyrie25.me/api/397414803473170432?gradient=645CBB-A084DC-BFACE2-EBC7E6](https://lanyard.kyrie25.me/api/397414803473170432)" />
-</a>
+[![Discord Presence](https://lanyard.kyrie25.me/api/397414803473170432)](https://discord.com/users/397414803473170432)
 
 ```bash
 $ sudo apt zonyx ^-^
