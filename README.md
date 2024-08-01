@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/397414803473170432" >
-   <img src="https://lanyard.kyrie25.me/api/397414803473170432"  />
+   <img src="https://lanyard.kyrie25.me/api/397414803473170432?waveColor=FF597B&display_name=true&animationDuration=4s"  />
   </a>
 </div>
 <br><br>
