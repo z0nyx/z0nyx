@@ -7,7 +7,7 @@
    <img src="https://lanyard.kyrie25.me/api/397414803473170432?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=7E37F9-B48EF7-E568C4&useDisplayName=true&decoration=true&hideStatus=false&animated=:true&animationDuration=4s"  />
   </a>
 </div>
-
+<br><br><br>
 
 ```bash
 $ sudo apt zonyx ^-^
