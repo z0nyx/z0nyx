@@ -3,7 +3,7 @@
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
 <a href="https://discord.com/users/397414803473170432">
-<img src="https://lanyard.kyrie25.me/api/397414803473170432?gradient=645CBB-A084DC-BFACE2-EBC7E6" />
+<img src="https://lanyard.kyrie25.me/api/202740603790819328?gradient=645CBB-A084DC-BFACE2-EBC7E6" />
 </a>
 
 ```bash
