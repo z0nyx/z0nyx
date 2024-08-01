@@ -1,17 +1,17 @@
-<img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"/> <h1>こんにちは(Kon'nichiwa)🙏🏻, I'm Hanavaro!</h1>
+<img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" height="50"/> <h1>こんにちは(Kon'nichiwa)🙏🏻, I'm Hanavaro!</h1>
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
-<div>
+
 <a href="https://discord.com/users/397414803473170432">
-<img src="https://lanyard.kyrie25.me/api/397414803473170432?waveColor=FF597B&waveSpotifyColor=FF597B" />
+<img src="https://lanyard.kyrie25.me/api/368399721494216706?gradient=645CBB-A084DC-BFACE2-EBC7E6" />
 </a>
 
 ```bash
 $ sudo apt zonyx ^-^
 ```
-</div>
 
-<div>
+
+
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
 
 ```javascript
@@ -34,4 +34,3 @@ const zonyx = {
 ```
 
 Last Updated on 01/09/2024 22:22:22 UTC
-</div>
