@@ -2,9 +2,9 @@
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
-<div align="center">
+
   [![Discord Presence](https://lanyard.kyrie25.me/api/397414803473170432)](https://discord.com/users/397414803473170432)
-</div>
+
 <br><br><br>
 
 ```bash
