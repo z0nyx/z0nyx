@@ -12,7 +12,7 @@
 <br><br><br>
 
 ```bash
-$ sudo apt zonyx ^-^
+$ sudo apt install zonyx ^-^
 ```
 
 
