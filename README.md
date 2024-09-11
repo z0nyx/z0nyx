@@ -37,4 +37,12 @@ const zonyx = {
 };
 ```
 
-Last Updated on 01/09/2024 22:22:22 UTC
+<h2 align="center">Skills</h2>
+
+<div align="center">
+    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,spring,figma,idea,git,github,gitlab,cloudflare,stackoverflow,linux,vue,js,html,css,tailwind">
+</div>
+
+<div align="center">
+
+Last Updated on 01/09/2024 20:39:30 UTC
