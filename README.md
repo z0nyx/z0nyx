@@ -15,11 +15,6 @@
 $ sudo apt install zonyx ^-^
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0nyx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-&emsp;
-[![Github stats](https://github-readme-stats.vercel.app/api?username=z0nyx&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
 
@@ -49,5 +44,11 @@ const zonyx = {
 </div>
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0nyx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;
+[![Github stats](https://github-readme-stats.vercel.app/api?username=z0nyx&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 
 Last Updated on 01/09/2024 20:39:30 UTC
