@@ -39,7 +39,7 @@ const zonyx = {
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <img alt="icons" src="./skills">
+    <img alt="img" src="./skills.svg">
 </div>
 
 <div align="center">
