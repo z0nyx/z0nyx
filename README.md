@@ -39,7 +39,7 @@ const zonyx = {
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,spring,figma,idea,git,github,gitlab,cloudflare,stackoverflow,linux,vue,js,html,css,tailwind">
+    <img alt="icons" src="./skills">
 </div>
 
 <div align="center">
