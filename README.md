@@ -43,6 +43,3 @@ const zonyx = {
 </div>
 
 <div align="center">
-
-
-Last Updated on 01/09/2024 20:39:30 UTC
