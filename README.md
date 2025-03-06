@@ -39,7 +39,7 @@ const zonyx = {
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <img alt="img" src="./skills.svg">
+<span title="TypeScript"><img height="32" width="40" src="https://cdn.simpleicons.org/typescript/1e66f5/89b4fa" /></span> <span title="TypeScript: React"><img height="32" width="40" src="https://cdn.simpleicons.org/react/209fb5/74c7ec" /></span> <span title="TypeScript: Vite"><img height="32" width="40" src="https://cdn.simpleicons.org/vite/8839ef/cba6f7" /></span> <span title="TypeScript: JavaScript"><img height="32" width="40" src="https://cdn.simpleicons.org/javascript/df8e1d/f9e2af" /></span> <span title="CSS"><img height="32" width="40" src="https://cdn.simpleicons.org/css/8839ef/cba6f7" /></span> <span title="CSS: Less"><img height="32" width="40" src="https://cdn.simpleicons.org/less/209fb5/74c7ec" /></span> <span title="CSS: Sass"><img height="32" width="40" src="https://cdn.simpleicons.org/sass/ea76cb/f5c2e7" /></span> <span title="Java"><img height="32" width="40" src="https://cdn.simpleicons.org/openjdk/4c4f69/cdd6f4" /></span>
 </div>
 
 <div align="center">
