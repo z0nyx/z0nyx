@@ -2,10 +2,6 @@
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
-<br><br>
-
-<br><br><br>
-
 ```bash
 $ sudo apt install zonyx ^-^
 ```
