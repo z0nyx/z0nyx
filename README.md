@@ -8,23 +8,26 @@ $ sudo apt install zonyx ^-^
 
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
 
-```javascript
-const zonyx = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "cyber security"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "MongoDB"]
-    },
-    funFact: "None"
-};
+```console
+❯ neofetch
+                   -`                     
+                  .o+`                    
+                 `ooo/                      USER: z0nyx@arch
+                `+oooo:                  ┌───────────────────────────────┐
+               `+oooooo:                   OS: Arch Linux x86_64 
+               -+oooooo+:                  Kernel: 6.6.28-1-lts 
+             `/:-:++oooo+:                 Packages: 1638 (pacman) 
+            `/++++/+++++++:                Shell: fish 3.7.1 
+           `/++++++++++++++:               WM: Hyprland 
+          `/+++ooooooooooooo/`             Terminal: kitty
+        .oossssso-````/ossssss+`           Occupation: Fullstack
+       -osssssso.      :ssssssso.          Language: TypeScript, Python
+      :osssssss/        osssso+++.         Editor: VSCode
+     /ossssssss/        +ssssooo/-       └───────────────────────────────┘ 
+   `/ossssso+/:-        -:/+osssso+-            ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/     
+ .`                                 `/
 ```
 
 <h2 align="center">Skills</h2>
