@@ -3,7 +3,7 @@
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 
 ```bash
-$ sudo apt install zonyx ^-^
+$ sudo pacman -S zonyx🤍
 ```
 
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
