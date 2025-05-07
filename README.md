@@ -19,9 +19,9 @@ $ sudo pacman -S zonyx🤍
             `/++++/+++++++:                Shell: fish 3.7.1 
            `/++++++++++++++:               WM: Hyprland 
           `/+++ooooooooooooo/`             Terminal: kitty
-        .oossssso-````/ossssss+`           Occupation: Fullstack
+        .oossssso-````/ossssss+`           Occupation: Bot Developer
        -osssssso.      :ssssssso.          Language: TypeScript, Python
-      :osssssss/        osssso+++.         Editor: VSCode
+      :osssssss/        osssso+++.         Editor: VSCode, Cursor, Atom
      /ossssssss/        +ssssooo/-       └───────────────────────────────┘ 
    `/ossssso+/:-        -:/+osssso+-            ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
   `+sso+:-`                 `.-/+oso:    
