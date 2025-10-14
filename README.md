@@ -21,7 +21,7 @@ $ sudo pacman -S zonyx🤍
           `/+++ooooooooooooo/`             Terminal: kitty
         .oossssso-````/ossssss+`           Occupation: Bot Developer
        -osssssso.      :ssssssso.          Language: TypeScript, Python
-      :osssssss/        osssso+++.         Editor: VSCode, Cursor, Atom
+      :osssssss/        osssso+++.         Editor: VSC, Cursor, IntelliJ
      /ossssssss/        +ssssooo/-       └───────────────────────────────┘ 
    `/ossssso+/:-        -:/+osssso+-            ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
   `+sso+:-`                 `.-/+oso:    
