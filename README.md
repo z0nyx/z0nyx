@@ -1,10 +1,10 @@
-<h1> <img src="https://cdn.jsdelivr.net/gh/JeffreyBool/githubmemory-cdn@26.0/images/mona-loading-default.gif" height="50"/> こんにちは(Kon'nichiwa)🙏🏻!</h1>
+<h1> <img src="https://cdn.jsdelivr.net/gh/JeffreyBool/githubmemory-cdn@26.0/images/mona-loading-default.gif" height="50"/> Hi, everyone!</h1>
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
 
 ```console
-$ sudo pacman -S zonyx🤍
+$ sudo pacman -Sy zonyx🤍
 ```
 
 ```console
@@ -19,9 +19,9 @@ $ sudo pacman -S zonyx🤍
             `/++++/+++++++:                Shell: fish 3.7.1 
            `/++++++++++++++:               WM: Hyprland 
           `/+++ooooooooooooo/`             Terminal: kitty
-        .oossssso-````/ossssss+`           Occupation: Bot Developer
-       -osssssso.      :ssssssso.          Language: TypeScript, Python
-      :osssssss/        osssso+++.         Editor: VSC, Cursor, IntelliJ
+        .oossssso-````/ossssss+`           Occupation: FullStack & Bot Developer
+       -osssssso.      :ssssssso.          Language: TypeScript, Python, C++
+      :osssssss/        osssso+++.         Editor: VSC, IntelliJ
      /ossssssss/        +ssssooo/-       └───────────────────────────────┘ 
    `/ossssso+/:-        -:/+osssso+-            ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
   `+sso+:-`                 `.-/+oso:    
