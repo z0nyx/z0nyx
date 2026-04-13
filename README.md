@@ -35,3 +35,8 @@ $ sudo pacman -Sy zonyx🤍
 </div>
 
 <div align="center"> -->
+
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@z0nyx-profile?theme=booru-lewd"/>
+</div>
