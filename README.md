@@ -9,12 +9,4 @@ I'm backend developer. build backend services, APIs and infrastructure-focused s
 </p>
 
 
-### Focus
-- scalable backend systems
-- API design
-- event-driven architecture
-
-### Projects
-- API services with authentication and RBAC
-- systems with external integrations
-- backend infrastructure and deployment
+I'm improving, working on myself, and I love the unknown
