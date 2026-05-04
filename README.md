@@ -2,11 +2,12 @@
 
 I build backend services, APIs and infrastructure-focused systems.
 
+
 ### Tech stack
-- Python, Node.js
-- PostgreSQL, MongoDB
-- Docker, Linux
-- REST API, system design
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,redis,docker,linux,fastapi,nestjs,nginx,githubactions&perline=6" />
+</p>
+
 
 ### Focus
 - scalable backend systems
