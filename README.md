@@ -1,11 +1,11 @@
-## Backend Developer (Python / Node.js)
+# Hey There!👋
 
-I build backend services, APIs and infrastructure-focused systems.
+I'm backend developer. build backend services, APIs and infrastructure-focused systems.
 
 
 ### Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,redis,docker,linux,fastapi,nestjs,nginx,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,redis,docker,linux,fastapi,nestjs,nginx,githubactions&perline=10" />
 </p>
 
 
